@@ -445,6 +445,11 @@
             experiences: [
               {
                 name: "Intern",
+                time: "2022 May - 2022 July",
+                desc: "Selected for a intern in internshala for Alecado systems and working on React+Web3 stack and learning blockchain.",
+              },
+              {
+                name: "Intern",
                 time: "2021 Nov - 2022 Jan",
                 desc: "Selected for a intern in internshala for LueuerTech and done a website to complete my internship using AOS and Javascript.",
               },
@@ -1023,6 +1028,14 @@
                 fig: ht.a,
                 tech: ["Tkinter", "Pywhatkit"],
                 category: ["Python"],
+              },
+              {
+                thing: "Movie app",
+                description: "Based on tutorial to learn Redux, Redux Toolkit.",
+                link: "https://movieapp-pn9ykq2ox-devulapallisai.vercel.app/",
+                fig: "../img/movieapp.png",
+                tech: ["Redux", "OMDBAPI", "Typescript"],
+                category: ["Frontend"],
               },
               {
                 thing: "Desktop Assistant",
