@@ -958,6 +958,14 @@
                 category: ["Full stack", "Backend", "Frontend"],
               },
               {
+                thing: "Whatsappweb Clone",
+                description: "A basic whatsapp web clone web sockets.",
+                fig: "../img/whatsapp.png",
+                tech: ["Sockets.io", "MERN", "Docker"],
+                link: "https://whatsappwebclone2022.netlify.app/",
+                category: ["Full stack", "Backend", "Frontend"],
+              },
+              {
                 thing: "Student Helper",
                 description:
                   "A web-app that I done for MILAN to reduce mails for cab sharing, lost/found at IITH.",
