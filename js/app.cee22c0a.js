@@ -1529,7 +1529,7 @@
                       [
                         a("div", [
                           t._v(
-                            " (a) I cleared JEE Advanced exam in my first attempt in 2020 with marks of 157 for 392 and rank of 3949. "
+                            " (a) I cleared JEE Advanced exam in my first attempt in 2020 with marks of 157 for 396 and rank of 3949. "
                           ),
                         ]),
                         a("div", [
@@ -1556,7 +1556,7 @@
                       },
                       [
                         t._v(
-                          " I got 96th rank in coding competition by NIT patna called Codejuring. "
+                          " I got 28th rank in coding competition by NIT patna called Codejuring. "
                         ),
                       ]
                     ),
