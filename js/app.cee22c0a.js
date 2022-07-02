@@ -937,7 +937,7 @@
                 description: "This is a website for cultural fest IITH 2022.",
                 fig: Z.a,
                 tech: ["React", "Tailwindcss"],
-                link: "https://elan.org.in",
+                link: "https://elan-2022.netlify.app/",
                 category: ["Frontend"],
               },
               {
