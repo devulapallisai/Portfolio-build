@@ -1585,6 +1585,27 @@
                   a("li", [
                     a("h3", [
                       a("b", { staticStyle: { "font-family": "'Poppins'" } }, [
+                        t._v(" Tinkerers Lab | IIT Hyderabad"),
+                      ]),
+                    ]),
+                    a(
+                      "div",
+                      {
+                        staticStyle: {
+                          "text-align": "left",
+                          "padding-top": "5px",
+                        },
+                      },
+                      [
+                        t._v(
+                          "I got first rank in a Hackathon jointly conducted by Tinkerers lab and Lambda of IITH. "
+                        ),
+                      ]
+                    ),
+                  ]),
+                  a("li", [
+                    a("h3", [
+                      a("b", { staticStyle: { "font-family": "'Poppins'" } }, [
                         t._v(" Milan | IIT Hyderabad"),
                       ]),
                     ]),
@@ -1603,6 +1624,7 @@
                       ]
                     ),
                   ]),
+                  
                 ]),
               ]),
             ]
