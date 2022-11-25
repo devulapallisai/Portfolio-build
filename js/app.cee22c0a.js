@@ -444,14 +444,19 @@
             Experience: T.a,
             experiences: [
               {
+                name: "Tech coordinator",
+                time: "2022 May - current",
+                desc: "Working as backend developer at Office of Career services, IITH. Maintaining placement/internship website portal and constantly monitoring errors and updates of the website.",
+              },
+              {
                 name: "Intern",
                 time: "2022 May - 2022 July",
-                desc: "Selected for a intern in internshala for Alecado systems and working on React+Web3 stack and learning blockchain.",
+                desc: "Selected for a web development internship for Alecado systems and worked on frontend of React+Web3 stack project (NFT minting part in the frontend).",
               },
               {
                 name: "Intern",
                 time: "2021 Nov - 2022 Jan",
-                desc: "Selected for a intern in internshala for LueuerTech and done a website to complete my internship using AOS and Javascript.",
+                desc: "Selected for a internship for LueuerTech and done a website to complete my internship using AOS and Javascript.",
               },
               {
                 name: "Lambda core",
