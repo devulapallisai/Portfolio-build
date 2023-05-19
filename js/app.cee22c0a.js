@@ -629,13 +629,7 @@
         name: "Firstslide",
         data: function () {
           return {
-            text: [
-              "Web developer",
-              "Student",
-              "Programmer",
-              "Freelancer",
-              "Web designer",
-            ],
+            text: ["Web developer", "Student", "Programmer", "ML Enthusiast"],
           };
         },
       },
@@ -1144,15 +1138,14 @@
               t._v(
                 " from Telangana, India. I am persuing my Undergraduate course in Electrical Engineering department at Indian Institute of Technology, Hyderabad. Basically I am a "
               ),
-              i("b", [t._v("front end web developer")]),
+              i("b", [t._v("full stack web developer")]),
               t._v(" with some basics of Backend with "),
               i("b", [t._v("flask")]),
               t._v("(python) and "),
               i("b", [t._v("Express")]),
               t._v(
-                "(JS). I like projects related to Electrical engineering in combination with coding and I am a part-time "
+                "(JS). I like projects related to Electrical engineering in combination with coding. I am also an AI/ML Enthusiast (currently exploring this field)."
               ),
-              i("b", [t._v("freelancer")]),
               t._v(". "),
             ]),
             i("div", { staticClass: "flexbox" }, [
@@ -1175,7 +1168,7 @@
                     t._v("My Details"),
                   ]),
                   t._v(
-                    " I am a Student developer and passionate about knowing new things. Presently I am learning Vue and Gatsby. I have done couple of some college websites and "
+                    " I am a Student developer and passionate about knowing new things. Presently I am exploring Machine Learning and Deep Learning. I have done couple of some college websites and "
                   ),
                   i("b", [
                     i(
