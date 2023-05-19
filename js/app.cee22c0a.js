@@ -444,8 +444,13 @@
             Experience: T.a,
             experiences: [
               {
+                name: "Interim Engineering Intern",
+                time: "2023 May - current",
+                desc: "Working as Interim Engineering Intern Software at Qualcomm, Hyderabad",
+              },
+              {
                 name: "Tech coordinator",
-                time: "2022 May - current",
+                time: "2022 May - 2023 April",
                 desc: "Working as backend developer at Office of Career services, IITH. Maintaining placement/internship website portal and constantly monitoring errors and updates of the website.",
               },
               {
@@ -1629,7 +1634,6 @@
                       ]
                     ),
                   ]),
-                  
                 ]),
               ]),
             ]
