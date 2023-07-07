@@ -991,7 +991,7 @@
                 thing: "InstantNotetaker",
                 description:
                   "A PWA which serves as Notes app using localstorageAPI",
-                link: "https://instantnotetaker.me",
+                link: "https://instantnotetaker.netlify.app/",
                 fig: lt.a,
                 tech: ["JS", "LocalStorageAPI"],
                 category: ["Frontend"],
