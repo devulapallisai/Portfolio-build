@@ -1627,6 +1627,27 @@
                       ]
                     ),
                   ]),
+                  a("li", [
+                    a("h3", [
+                      a("b", { staticStyle: { "font-family": "'Poppins'" } }, [
+                        t._v("IdeaQuest 2023 | Qualcomm"),
+                      ]),
+                    ]),
+                    a(
+                      "div",
+                      {
+                        staticStyle: {
+                          "text-align": "left",
+                          "padding-top": "5px",
+                        },
+                      },
+                      [
+                        t._v(
+                          "I lead a six-member team and we won 3rd rank in IQ2023 hackathon conducted by Qualcomm for all summer interns."
+                        ),
+                      ]
+                    ),
+                  ]),
                 ]),
               ]),
             ]
