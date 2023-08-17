@@ -444,8 +444,8 @@
             Experience: T.a,
             experiences: [
               {
-                name: "Interim Engineering Intern",
-                time: "2023 May - current",
+                name: "Software Intern",
+                time: "2023 May - 2023 July",
                 desc: "Working as Interim Engineering Intern Software at Qualcomm, Hyderabad",
               },
               {
