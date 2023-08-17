@@ -446,7 +446,7 @@
               {
                 name: "Software Intern",
                 time: "2023 May - 2023 July",
-                desc: "Working as Interim Engineering Intern Software at Qualcomm, Hyderabad",
+                desc: "Worked as Interim Engineering Intern Software at Qualcomm, Hyderabad",
               },
               {
                 name: "Tech coordinator",
